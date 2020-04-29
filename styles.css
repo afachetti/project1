@@ -1,0 +1,55 @@
+/* Everything is Open Sans */
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: navy;
+}
+
+/* Jumbotron Styling */
+.jumbotron {
+  background-attachment: fixed;
+  background-image: url(organizedclothes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color:navy;
+}
+
+/* Card Styling */
+.card {
+  height: 400px;
+}
+.card h5 {
+  font-weight: bolder;
+  font-size: 30px;
+}
+.card img {
+  height: 200px;
+}
+
+/* Media Accolades */
+.media h2 {
+  font-weight: bold;
+  font-size: 40px;
+}
+.media h5 {
+  font-weight: bold;
+}
+.media img {
+  width: 64px;
+  height: 64px;
+  }
+
+/* About Page */
+.aboutheader h2 {
+  font-size: 25px;
+}
+.about h2 {
+  font-size: 20px;
+}
+
+/* Pricing */
+.fa-check-circle {
+  color: green;
+}
+.fa-times-circle {
+  color:red
+}
